@@ -1,4 +1,4 @@
-# Spinnaker.io Documentation and Community Site
+# Spinnaker.io Documentation and Community Site   DELETE THIS DELETE THIS DELETE THIS
 
 This site is built using [Hugo](https://gohugo.io) and the [Docsy Theme](https://www.docsy.dev/).
 
